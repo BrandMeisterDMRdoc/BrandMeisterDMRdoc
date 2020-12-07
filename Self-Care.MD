@@ -37,8 +37,8 @@
 <p>It is here that the user can set a number of parameters of a hotspot, and with future rules to be introduced, a personal password for the user to use in his hotspot.</p>
 <p>This will replace the 'passw0rd' that has been standard for all devices, including repeaters up until this juncture. However it shall be eventually mandatory for a personal password to be set or connectivity will be disabled.</p>
 <p>It is a simple change, but will give the user full control of his rights to use the network, and will negate the ability of wilful usurpers, licenced or unlicenced, to unlawfully use the network with anothers identity.</p>
-<p>In some regions, this practice of persoanl passwords has already begun.</p>
+<p>In some regions, this practice of personal passwords has already begun.</p>
 <p.More strongly than that, the user can set the air-security of his profile, so that when he is not active, his identity cannot be usurped.</p>
 <p>Here also can be set the details that the user would like to display on aprs.fi, and also what information can be displayed on Talker Alias.</p>
-<p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker ALias is enabled.</p>
+<p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker Alias is enabled.</p>
 
