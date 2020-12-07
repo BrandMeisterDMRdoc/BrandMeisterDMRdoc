@@ -8,15 +8,15 @@
 <p>Once this is complete, Each of the keeper’s repeaters will be accessible in the account under the <b>Sysop Dashboard.</b> This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).</p>
 <p>Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.</p>
 <p><b>The Menus Options are:</b></p>
-<p><b>User Dashboard</b>	that gives global and current information of the state of the BrandMeister Network.</p>
-<p><b>Last Heard</b>	that provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
-<p><b>Repeaters</b>	that can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
-<p><b>Hotspots</b>	that can provide details of a known hotspot or series of hotspots depending on the search parameters provided.</p>
-<p><b>Masters</b>	Currently there are 45 Master Servers. Selecting one of these, will provided current connectivity information for the individual server.</p>
-<p><b>Alerts</b>	This displays any alerts that may have been set. For the most part this information is irrelevant for most users.</p>
-<p><b>Data Visualisation</b>	From this menu can be selected some of the visual information provided on parts of the network.</p>
-<p><b>Information</b>	From this section can be found all of the textual information available known as the BrandMeister Wiki. Described as a Database or Website designed to furnish relevant information for viewing and editing, a Wiki in any context provides information for the purposes of research. The word ‘Wiki’ in Hawaiian means “to Hurry, Fast or Quick” however the best description for it wold be the acronym for “What I Know Is…”. As most wiki’s can be edited to reflect up-to-date knowledge.</p>
-<p><b>Services</b>	This menu give access to the now unsupported hose line, Extended Routing for the DV4Mini device that is in declining usage, and finally the self-care options for individuals who primarily use a terminal (radio) and possibly a full MMDVM device.</p>
+<p><b>User Dashboard -</b>	that gives global and current information of the state of the BrandMeister Network.</p>
+<p><b>Last Heard -</b>	that provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
+<p><b>Repeaters -</b>	that can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
+<p><b>Hotspots -</b>	that can provide details of a known hotspot or series of hotspots depending on the search parameters provided.</p>
+<p><b>Masters -</b>	Currently there are 45 Master Servers. Selecting one of these, will provided current connectivity information for the individual server.</p>
+<p><b>Alerts -</b>	This displays any alerts that may have been set. For the most part this information is irrelevant for most users.</p>
+<p><b>Data Visualisation -</b>	From this menu can be selected some of the visual information provided on parts of the network.</p>
+<p><b>Information -</b>	From this section can be found all of the textual information available known as the BrandMeister Wiki. Described as a Database or Website designed to furnish relevant information for viewing and editing, a Wiki in any context provides information for the purposes of research. The word ‘Wiki’ in Hawaiian means “to Hurry, Fast or Quick” however the best description for it wold be the acronym for “What I Know Is…”. As most wiki’s can be edited to reflect up-to-date knowledge.</p>
+<p><b>Services -</b>	This menu give access to the now unsupported hose line, Extended Routing for the DV4Mini device that is in declining usage, and finally the self-care options for individuals who primarily use a terminal (radio) and possibly a full MMDVM device.</p>
 <p>Below these lines are the menus for Hotspot control and the Sysop Dashboard for Repeater Keepers.</p>
 
 # Individual Profiles
