@@ -16,7 +16,7 @@
 <p><b>Alerts -</b>	This displays any alerts that may have been set. For the most part this information is irrelevant for most users.</p>
 <p><b>Data Visualisation -</b>	From this menu can be selected some of the visual information provided on parts of the network.</p>
 <p><b>Information -</b>	From this section can be found all of the textual information available known as the BrandMeister Wiki. Described as a Database or Website designed to furnish relevant information for viewing and editing, a Wiki in any context provides information for the purposes of research. The word ‘Wiki’ in Hawaiian means “to Hurry, Fast or Quick” however the best description for it would be the acronym for “What I Know Is…”. As most wiki’s can be edited to reflect up-to-date knowledge.</p>
-<p><b>Services -</b>	This menu give access to the now unsupported hose line, Extended Routing for the DV4Mini device that is in declining usage, and finally the self-care options for individuals who primarily use a terminal (radio) and possibly a full MMDVM device.</p>
+<p><b>Services -</b>	This menu gives access to the now unsupported hose line, extended routing for the DV4Mini device that is in declining usage, and finally the self-care options for individuals who primarily use a terminal (radio) and possibly a full MMDVM device.</p>
 <p>Below these lines are the menus for Hotspot control and the Sysop Dashboard for Repeater Keepers.</p>
 
 # Individual Profiles
@@ -33,7 +33,7 @@
 <p>When creating a new API is it imperative to save the textual information on a personal computer, and if possible the QR-Code, as once this window is close, the API is no longer available.</p>
 <p>The option to copy the new API places the textual information on to the computer's scratch pad to permit it to be pasted directly into place on the Pi-Star BM-API menu box that is presented.</p>
 
-# The Self-Care option
+# The Self-Care options
 <p>It is here that the user can set a number of parameters of a hotspot, and with future rules to be introduced, a personal password for the user to use in his hotspot.</p>
 <p>This will replace the 'passw0rd' that has been standard for all devices, including repeaters up until this juncture. However it shall be eventually mandatory for a personal password to be set or connectivity will be disabled.</p>
 <p>It is a simple change, but will give the user full control of his rights to use the network, and will negate the ability of wilful usurpers, licenced or unlicenced, to unlawfully use the network with another's identity.</p>
