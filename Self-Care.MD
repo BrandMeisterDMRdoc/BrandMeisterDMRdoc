@@ -43,7 +43,7 @@
 <p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker Alias is enabled.</p>
 
 # Last Heard search facilities
-<p>Within the <b>last heard</b>page are some powerful search parameters.</p>
+<p>Within the <b>last heard</b> page are some powerful search parameters.</p>
 <p>Whilst not part of the Self-Care, these searches can aid in understanding the many aspects of the BrandMeister Network.</p>
 <p>The first screen encountered is displaying the most recent activity on a global level, and changes very rapidly.</p>
 <p><b>Search</b> on the left on its is own is limited in its results. So the first action to apply is to click on the <b>+</b> at the right-hand end.</b>
@@ -51,7 +51,8 @@
 <p>To make the search practical, there are some settings that we shall need to understand.</p>
 <h3>AND/OR</h3>
 <p>The most useful of these two parameters is <b>OR</b> that gives a choice between parameters, whereas <b>AND</b> means that a number of parameters together must be true before the results will be visible. So for the most part <b>OR</b> must be selected by clicking on it to make it Dark Blue in colour.</p>
+<h3>Add Rule</h3>
 <p>The best way to make a search shall be the use of <b>Add Rule</b>. The search can be simple by using one rule, or more complicated by adding further rules. However for most purposes a single or double rule may be sufficient.</p>
 <p>Clicking on <b>Add rule</b> produces a line with a drop-box at the far left-hand end. selecting on each of these items opens further boxes to be completed either partially or fully, to give some very powerful search parameters. The type of data may be restrictive according to the box. But remember Callsigns must be in UPPER CASE. In the most simple search, that of Destination Id, the addition of a TalkGroup number will result in the latest users of this TalkGroup when one clicks on <b>search</b></p>
-<p>By applying multiple rules with different parameters with <b>OR</b> selected, can result in tighter parameters, refining a search, and redsucing the number of results.</p>
+<p>By applying multiple rules with different parameters with <b>OR</b> selected, can result in tighter parameters, refining a search, and reducing the number of results.</p>
 
