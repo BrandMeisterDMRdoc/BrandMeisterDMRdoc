@@ -9,7 +9,7 @@
 <p>Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.</p>
 <p><b>The Menus Options are:</b></p>
 <p><b>User Dashboard -</b>	that gives global and current information of the state of the BrandMeister Network.</p>
-<p><b>Last Heard -</b>	that provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
+<p><b>Last Heard -</b>	that provides access to a massive range of active and historical data. A fuller explanation of this tool is accessible below.</p>
 <p><b>Repeaters -</b>	that can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
 <p><b>Hotspots -</b>	that can provide details of a known hotspot or series of hotspots depending on the search parameters provided.</p>
 <p><b>Masters -</b>	Currently there are 45 Master Servers. Selecting one of these, will provided current connectivity information for the individual server.</p>
