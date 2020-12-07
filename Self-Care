@@ -39,3 +39,5 @@ Once logged in, the users callsign and chosen avatar should appear on the top re
 <p>It is a simple change, but will give the user full control of his rights to use the network, and will negate the ability of wilful usurpers, licenced or unlicenced, to unlawfully use the network with anothers identity.</p>
 <p>In some regions, this practice has already begun.</p>
 <p.More strongly than that, the user can set the air-security of his profile, so that when he is not active, his identity cannot be usurped.</p>
+<p>Here also can be set the details that the user would like to display on aprs.fi, and also what information can be displayed on Talker Alias.</p>
+<p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker ALias is enabled.</p>
