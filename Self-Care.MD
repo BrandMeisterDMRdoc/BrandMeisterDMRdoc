@@ -8,21 +8,21 @@
 <p>Once this is complete, Each of the keeper’s repeaters will be accessible in the account under the <b>Sysop Dashboard.</b> This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).</p>
 <p>Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.</p>
 <p><b>The Menus Options are:</b></p>
-<p><b>User Dashboard</b>	gives global and current information of the state of the BrandMeister Network.</p>
-<p><b>Last Heard</b>	provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
-<p><b>Repeaters</b>	can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
-<p><b>Hotspots</b>	can provide details of a known hotspot or series of hotspots depending on the search parameters provided.</p>
+<p><b>User Dashboard</b>	that gives global and current information of the state of the BrandMeister Network.</p>
+<p><b>Last Heard</b>	that provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
+<p><b>Repeaters</b>	that can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
+<p><b>Hotspots</b>	that can provide details of a known hotspot or series of hotspots depending on the search parameters provided.</p>
 <p><b>Masters</b>	Currently there are 45 Master Servers. Selecting one of these, will provided current connectivity information for the individual server.</p>
 <p><b>Alerts</b>	This displays any alerts that may have been set. For the most part this information is irrelevant for most users.</p>
 <p><b>Data Visualisation</b>	From this menu can be selected some of the visual information provided on parts of the network.</p>
 <p><b>Information</b>	From this section can be found all of the textual information available known as the BrandMeister Wiki. Described as a Database or Website designed to furnish relevant information for viewing and editing, a Wiki in any context provides information for the purposes of research. The word ‘Wiki’ in Hawaiian means “to Hurry, Fast or Quick” however the best description for it wold be the acronym for “What I Know Is…”. As most wiki’s can be edited to reflect up-to-date knowledge.</p>
-<p><b>Services</b>	This menu give access to the now unsupported hose line, Extended routing for the DV4Mini device, and finally the self-care options for individuals.</p>
-<p>Below these line are the meus for Hotspot control and the Sysop Dashboard for Repeater Keepers.</p>
+<p><b>Services</b>	This menu give access to the now unsupported hose line, Extended Routing for the DV4Mini device that is in declining usage, and finally the self-care options for individuals who primarily use a terminal (radio) and possibly a full MMDVM device.</p>
+<p>Below these lines are the menus for Hotspot control and the Sysop Dashboard for Repeater Keepers.</p>
 
 # Individual Profiles
 <p>By clicking on the avatar on the top line, the user can open full access to his own profile, edit his profile settings, access new parameters for example the BrandMeister API for for the MMDVM devices under his control, and finally his own self-care dashboard.
 </p>
-<p>The First option	displays the user's profile image, and the <b>Last Heard</b> information relevant to his personal ID. Below the profile image is the option to edit the current user DMRId information.</p>
+<p>The first option	displays the user's profile image, and the <b>Last Heard</b> information relevant to his personal ID. Below the profile image is the option to edit the current user DMRId information.</p>
 <p>The second option	gives access to the user to enable changes to his current email account and password and the facility to change it.<p>
 <p>On the same screen can be seen a small blue panel that when clicked opens the options to create new Application Programming Information (API) for each of the MMDVM devices in his care.</p>
 
@@ -33,7 +33,7 @@
 <p>When creating a new API is it imperative to save the textual information on a personal computer, and if possible the QR-Code, as once this window is close, the API is no longer available.</p>
 <p>The option to copy the new API places the textual information on to the computer's scratch pad to permit it to be pasted directly into place on the Pi-Star BM-API menu box that is presented.</p>
 
-# Finally the Self-Care option
+# The Self-Care option
 <p>It is here that the user can set a number of parameters of a hotspot, and with future rules to be introduced, a personal password for the user to use in his hotspot.</p>
 <p>This will replace the 'passw0rd' that has been standard for all devices, including repeaters up until this juncture. However it shall be eventually mandatory for a personal password to be set or connectivity will be disabled.</p>
 <p>It is a simple change, but will give the user full control of his rights to use the network, and will negate the ability of wilful usurpers, licenced or unlicenced, to unlawfully use the network with anothers identity.</p>
@@ -42,3 +42,9 @@
 <p>Here also can be set the details that the user would like to display on aprs.fi, and also what information can be displayed on Talker Alias.</p>
 <p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker Alias is enabled.</p>
 
+# Last Heard search facilities
+<p>Within the <b>last heard</b>page are some powerful search parameters.</p>
+<p>Whilst not part of the Self-Care, these searches can aid in understanding the many aspects of the BrandMeister Network.</p>
+<p>The first screen encountered is displaying the most recent activity on a global level, and changes very rapidly.</p>
+<p>To make the search more practical, there are some settings that we shall need to understand.</p>
+<h2>AND/OR</h2>
