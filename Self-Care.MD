@@ -1,4 +1,4 @@
-# Self-Care as an Essential Tool in BrandMeister
+# Self-Care and Last Heard as Essential Tools in BrandMeister
 <p><b>Self-Care is a very important ingredient of the BrandMeister Network.</b></p>
 <p>It is important for any Repeater Keeper as well as the individual on BrandMeister to register for a Self-Care account, to set personal security, and to display up-to-date personal information.</p>
 <p>It is neccessary that the user has already a DMR Id before registering for a BrandMeister Self-Care account.</p> 
