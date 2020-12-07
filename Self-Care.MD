@@ -46,5 +46,12 @@
 <p>Within the <b>last heard</b>page are some powerful search parameters.</p>
 <p>Whilst not part of the Self-Care, these searches can aid in understanding the many aspects of the BrandMeister Network.</p>
 <p>The first screen encountered is displaying the most recent activity on a global level, and changes very rapidly.</p>
-<p>To make the search more practical, there are some settings that we shall need to understand.</p>
+<p><b>Search</b> on the left on its is own is limited in its results. So the first action to apply is to click on the <b>+</b> at the right-hand end.</b>
+<p>This provides new boxes. On the left <h3>AND/OR</h3> and on the right <h3>Add Rule - Add Group</h3>.</p>
+<p>To make the search practical, there are some settings that we shall need to understand.</p>
 <h3>AND/OR</h3>
+<p>The most useful of these two parameters is <h3>OR</h3> that gives a choice between parameters, whereas <h3>AND</h3> means that a number of parameters together must be true before the results will be visible. So for the most part <h3>OR</h3> must be selected by clicking on it to make it Dark Blue in colour.</p>
+<p>The best way to make a search shall be the use of <h3>Add Rule</h3>. The search can be simple by using one rule, or more complicated by adding further rules. However for most purposes a single or double rule may be sufficient.</p>
+<p>Clicking on <h3>Add rule</h3> produces a line with a drop-box at the far left-hand end. selecting on each of these items opens further boxes to be completed either partially or fully, to give some very powerful search parameters. The type of data may be restrictive according to the box. But remember Callsigns must be in UPPER CASE. In the most simple search, that of Destination Id, the addition of a TalkGroup number will result in the latest users of this TalkGroup when one clicks on <b>search</b></p>
+<p>By applying multiple rules with different parameters with <h3OR</h3> selected, can result in tighter parameters, refining a search.</p>
+
