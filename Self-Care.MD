@@ -47,4 +47,4 @@
 <p>Whilst not part of the Self-Care, these searches can aid in understanding the many aspects of the BrandMeister Network.</p>
 <p>The first screen encountered is displaying the most recent activity on a global level, and changes very rapidly.</p>
 <p>To make the search more practical, there are some settings that we shall need to understand.</p>
-<h2>AND/OR</h2>
+<h3>AND/OR</h3>
