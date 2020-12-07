@@ -1,15 +1,13 @@
 #Self-Care
 <p><b>Self-Care is a very important ingredient of the BrandMeister Network.</b></p>
-It is important for any Repeater Keeper as well as the individual on BrandMeister to register for a Self-Care account, to set personal security, and to display up-to-date personal information.
-It is neccessary that the user has already a DMR Id before registering for a BrandMeister Self-Care account. 
-The act of registration may take up to 48 hours. 
-From time to time, some email providers are not recognised by the system, so those registering should check their Spam Filter before reporting a registration failure to a member of the  administration. Any query in this regard go to the appropriate Telegram application account.
-
-Once registered, a log-in permits access to edit the individual’s account. Repeater keepers requiring the addition to their account, of repeaters in their care should provide their own and their Repeater’s callsign and DMRId to a member of the admin team via the Telegram application.
-Once this is complete, Each of the keeper’s repeaters will be accessible in the account. This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).
-
-Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.
-
+<p>It is important for any Repeater Keeper as well as the individual on BrandMeister to register for a Self-Care account, to set personal security, and to display up-to-date personal information.</p>
+<p>It is neccessary that the user has already a DMR Id before registering for a BrandMeister Self-Care account.</p> 
+<p>The act of registration may take up to 48 hours.</p> 
+<p>From time to time, some email providers are not recognised by the system, so those registering should check their Spam Filter before reporting a registration failure to a member of the  administration. Any query in this regard go to the appropriate Telegram application account.</p>
+<p>Once registered, a log-in permits access to edit the individual’s account. Repeater keepers requiring the addition to their account, of repeaters in their care should provide their own and their Repeater’s callsign and DMRId to a member of the admin team via the Telegram application.</p>
+<p>Once this is complete, Each of the keeper’s repeaters will be accessible in the account. This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).</p>
+<p>Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.</p>
+<p><b>The Menus OPtions are:</b></p>
 <p><b>User Dashboard</b> gives global and current information of the state of the BrandMeister Network.</p>
 <p><b>Last Heard</b> provides access to a massive range of active and historical data. A full explanation of this tools is accessible below.</p>
 <p><b>Repeaters</b> can provide details of a repeater or several repeaters depending on the search parameters provided.</p>
@@ -37,7 +35,7 @@ Once logged in, the users callsign and chosen avatar should appear on the top re
 <p>It is here that the user can set a number of parameters of a hotspot, and with future rules to be introduced, a personal password for the user to use in his hotspot.</p>
 <p>This will replace the 'passw0rd' that has been standard for all devices, including repeaters up until this juncture. However it shall be eventually mandatory for a personal password to be set or connectivity will be disabled.</p>
 <p>It is a simple change, but will give the user full control of his rights to use the network, and will negate the ability of wilful usurpers, licenced or unlicenced, to unlawfully use the network with anothers identity.</p>
-<p>In some regions, this practice has already begun.</p>
+<p>In some regions, this practice of persoanl passwords has already begun.</p>
 <p.More strongly than that, the user can set the air-security of his profile, so that when he is not active, his identity cannot be usurped.</p>
 <p>Here also can be set the details that the user would like to display on aprs.fi, and also what information can be displayed on Talker Alias.</p>
 <p>APRS Text can be used to display meaningful information, such as additional callsign information or a nickname of the user. It is this information that can be viewed on the the terminal screens of others if Talker ALias is enabled.</p>
