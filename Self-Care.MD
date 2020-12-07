@@ -25,6 +25,7 @@
 <p>The First option	displays the user's profile image, and the <b>Last Heard</b> information relevant to his personal ID. Below the profile image is the option to edit the current user DMRId information.</p>
 <p>The second option	gives access to the user to enable changes to his current email account and password and the facility to change it.<p>
 <p>On the same screen can be seen a small blue panel that when clicked opens the options to create new Application Programming Information (API) for each of the MMDVM devices in his care.</p>
+
 # The BM-API or Application Programming Information
 <p>Each new API key must be given a unique name so that the user can recognise it in the future.</p>
 <p>The important and noteworthy option is the ability to revoke a current API in order to remove it or renew it on a current MMDVM device.</p>
