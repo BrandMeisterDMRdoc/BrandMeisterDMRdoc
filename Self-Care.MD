@@ -5,7 +5,7 @@
 <p>The act of registration may take up to 48 hours.</p> 
 <p>From time to time, some email providers are not recognised by the system, so those registering should check their Spam Filter before reporting a registration failure to a member of the  administration. Any query in this regard go to the appropriate Telegram application account.</p>
 <p>Once registered, a log-in permits access to edit the individual’s account. Repeater keepers requiring the addition to their account, of repeaters in their care should provide their own and their Repeater’s callsign and DMRId to a member of the admin team via the Telegram application.</p>
-<p>Once this is complete, Each of the keeper’s repeaters will be accessible in the account. This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).</p>
+<p>Once this is complete, Each of the keeper’s repeaters will be accessible in the account under the <b>Sysop Dashboard.</b>. This is particularly important for MMDVM repeater users, who shall require access to the BrandMeister API (Application Programming Interface).</p>
 <p>Once logged in, the users callsign and chosen avatar should appear on the top red line, with a number of white menu items on the black bar to the left.</p>
 <p><b>The Menus Options are:</b></p>
 <p><b>User Dashboard</b>	gives global and current information of the state of the BrandMeister Network.</p>
